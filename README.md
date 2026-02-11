@@ -1,4 +1,17 @@
-# MAM_DungeonCrawler
+# MAM_DungeonCrawler (WIP)
+
+This project was developed to explore advanced game architecture and mobile systems as part of the **Mobile and Multiplayer** module at **Teesside University**.
+
+---
+
+## Technical Objectives
+* **Multiplayer Architecture**: Planned implementation of robust networking logic for mobile-to-mobile synchronisation.
+* **Procedural Systems**: Exploration of procedural generation for dungeon layouts and itemisation.
+
+## Project Structure
+- `core/`: Main module for game logic and multiplayer networking.
+- `android/`: Platform-specific launcher and mobile optimisations.
+- `assets/`: Centralised game resources including tilemaps and character sprites.
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
